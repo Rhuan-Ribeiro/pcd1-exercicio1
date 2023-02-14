@@ -1,3 +1,4 @@
+/* alteracao feita */
 create database nutricion;
 use nutricion; 
 
